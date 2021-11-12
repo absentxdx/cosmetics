@@ -26,6 +26,6 @@
 		"susanoo-enabled": "true",
                 "susanoo-r": "0.1",
 		"susanoo-g": "0.1",
-		"susanoo-b": "0.1";
+		"susanoo-b": "0.1"
             }
 	]
