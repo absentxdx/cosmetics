@@ -5,7 +5,7 @@
                 "enabled": "true",
 		"rabbit-enabled": "true",
 		"cape-enabled": "false",
-                "hat-enabled": "false",
+                "hat-enabled": "true",
                 "hat-r": "12",
 		"hat-g": "255",
 		"hat-b": "90",
